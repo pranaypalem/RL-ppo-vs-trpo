@@ -64,7 +64,6 @@ Different seeds (e.g., `42`, `123`, `999`, `2024`) are used for random number ge
 The repository is structured as follows:
 
 ```
-RL/
 ├── Original/               # Initial experiments with PPO and TRPO
 │   ├── RL_Project-long.ipynb      # Primary notebook with original implementation
 │   ├── Models/                    # Saved model weights
