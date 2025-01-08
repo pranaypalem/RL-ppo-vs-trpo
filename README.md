@@ -88,8 +88,7 @@ The repository is structured as follows:
 ### Running the Code
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd RL
+   git clone https://github.com/pranaypalem/RL-ppo-vs-trpo.git
    ```
 2. Install dependencies:
    ```bash
