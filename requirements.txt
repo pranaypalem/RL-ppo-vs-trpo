@@ -1,0 +1,7 @@
+
+gym==0.26.2
+stable-baselines3==1.7.0
+numpy==1.23.5
+matplotlib==3.6.2
+pandas==1.5.2
+pickle5==0.0.11
